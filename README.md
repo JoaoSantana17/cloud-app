@@ -15,17 +15,7 @@ O objetivo deste projeto é **demonstrar o deployment de uma aplicação contain
 
 A aplicação é uma **API simples em FastAPI**, simulando parte da arquitetura demo do projeto “Rolê”.
 
----
-
-## Etapas do Deployment
-
-### 1. Criação da VM no Azure
-
-- **Sistema operacional:** Ubuntu 22.04 LTS  
-- **Portas liberadas:**  
-  - `22` → SSH  
-  - `80` → Aplicação  
-
+--- 
 
 # Link para o video do YouTube: https://youtu.be/ScMMHfdk5Y4
 
