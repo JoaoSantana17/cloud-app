@@ -1,7 +1,6 @@
 # Role – FastAPI + Docker + Azure VM
 
 > **Deployment em Nuvem utilizando Docker, Docker Compose e Azure VM.**  
-> Projeto desenvolvido para a disciplina
 
 ---
 
