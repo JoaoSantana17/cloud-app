@@ -17,23 +17,6 @@ A aplicação é uma **API simples em FastAPI**, simulando parte da arquitetura 
 
 ---
 
-## Estrutura de Diretórios
-
-role-docker/
-│
-├── app/
-│ └── main.py # Código principal da aplicação (FastAPI)
-│ └── requirements.txt # Dependências da aplicação
-│
-├── Dockerfile # Instruções de build da imagem Docker
-│
-├── docker-compose.yml # Orquestração do container
-│
-└── README.md # Documentação do projeto
-
-
----
-
 ## Etapas do Deployment
 
 ### 1. Criação da VM no Azure
@@ -44,7 +27,7 @@ role-docker/
   - `80` → Aplicação  
 
 
-# Link para o video do YouTube: 
+# Link para o video do YouTube: https://youtu.be/ScMMHfdk5Y4
 
 # Créditos
 
